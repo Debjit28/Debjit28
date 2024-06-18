@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Debjit28
-- 👀 I’m interested in full stack development
+- 👋 Hi, I’m Debjit Bhattacharya
+- 👀 I’m interested in full stack development 
 - 🌱 I’m currently in upes dehradun and pursuing btech in Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 😊 Since I am in 2 year i want to develop my skills
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am scared of darkness
+- ⚡ when will i graduate: I will passout in year 2028
 
 <!---
 Debjit28/Debjit28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
