@@ -6,6 +6,6 @@ const Debjit_Bhattacharya = {
     technologies: {
         other: ["Linux Nix Docker Raspberry pi"],
     },
-    currentFocus: "Breaking into tech with a passion for cybersecurity",
-    funFact: "I solve problems so well, I should charge them rent!"
+    currentFocus: "Breaking into tech with a passion for cybersecurity"
+    
 };
