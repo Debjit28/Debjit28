@@ -1,29 +1,32 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Debjit%20Bhattacharya&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=aka%20Debjit28%20%7C%20He%2FHim&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:4a0000,100:cc0000&height=220&section=header&text=Debjit%20Bhattacharya&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%22I%20command%20you%2C%20machines%20and%20code%20-%20OBEY%20ME!%22&descAlignY=58&descSize=14&descColor=ffcccc)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EB4&center=true&vCenter=true&width=700&lines=Konnichiwa%2C+I'm+Debjit+%F0%9F%A4%99;Web+Dev+%7C+Python+%7C+Linux+Enjoyer;Still+in+my+arc...+watch+me+level+up+%E2%9A%94%EF%B8%8F;I+am+the+main+character+%F0%9F%97%A1%EF%B8%8F)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=1200&color=CC0000&center=true&vCenter=true&width=750&lines=I%2C+Debjit%2C+hereby+command+you...;All+code+shall+bow+to+my+Geass!;The+Black+Knights+of+Dev+shall+rise!;Those+who+shoot+shall+be+shot+%E2%80%94+by+bugs.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="anime coding gif"/>
+<img align="right" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200" alt="geass eye gif"/>
 
-## 🌸 About Me
+## 👁️ The Zero Identity
 
 ```javascript
-const Debjit_Bhattacharya = {
+const Lelouch_vi_Debjit = {
+  alias         : "Zero — Debjit28",
   pronouns      : "He / Him",
-  code          : ["Python", "JavaScript", "HTML", "CSS"],
-  askMeAbout    : ["tech trends", "Python", "Web Dev", "Linux"],
-  technologies  : {
-    os    : ["Linux 🐧", "NixOS"],
-    tools : ["Docker", "Raspberry Pi", "FastAPI"],
-  },
-  currentFocus   : "Breaking into tech, one commit at a time",
-  watching       : ["Attack on Titan", "Demon Slayer", "Code Geass"],
-  lifePhilosophy : "I am the main character 🗡️",
+  faction       : "The Black Knights of Dev 🖤",
+  weapons       : ["Python", "JavaScript", "HTML", "CSS", "FastAPI"],
+  geassAbility  : "Absolute Command over Linux & Docker",
+  knightmare    : "Raspberry Pi",
+  strategy      : "Break into tech through superior intellect",
+  finalObjective: "Create a world worth coding for",
+  quote         : "The only ones who should code are those who can handle bugs.",
 };
 ```
 
@@ -31,78 +34,76 @@ const Debjit_Bhattacharya = {
 
 ---
 
-## 📜 Skill Scroll — Unlocked Abilities
+<div align="center">
 
-> *"A shinobi's true strength lies not in raw power, but in the breadth of their jutsu."*
+## 🕯️ *"All hail Zero!"*
 
----
-
-### 🔥 `[S-Rank]` Programming & Scripting
-
-<div align="left">
-
-| Ability | Description | Status |
-|:--------|:------------|:------:|
-| 🐍 **Python** | Scripting, automation, building small tools & shells | ✅ Unlocked |
-| 🌐 **HTML / CSS / JS** | Basic web development & front-end foundations | ✅ Unlocked |
-| ⚡ **FastAPI** | Creating simple REST APIs | ✅ Unlocked |
+> *"I have to do it. I have to use any means necessary... even Stack Overflow."*
 
 </div>
 
 ---
 
-### 🛡️ `[A-Rank]` Networking & Security
+## 📜 Geass Compendium — Unlocked Powers
 
-<div align="left">
-
-| Ability | Description | Status |
-|:--------|:------------|:------:|
-| 🔥 **Firewalls** | DNS and IP blocking | ✅ Unlocked |
-| 🔌 **Networking Basics** | Sockets, TCP/IP fundamentals | ✅ Unlocked |
-
-</div>
+> *"The Power of Kings will isolate you... but it will also let you deploy containers flawlessly."*
 
 ---
 
-### ⚙️ `[A-Rank]` Tools & Environment
+### 👁️‍🗨️ `[ ABSOLUTE COMMAND ]` — Programming & Scripting
 
-<div align="left">
-
-| Ability | Description | Status |
-|:--------|:------------|:------:|
-| 🐧 **Linux & NixOS** | System usage, scripting, command line | ✅ Unlocked |
-| 🐋 **Docker** | Basic container setup and usage | ✅ Unlocked |
-| 🍓 **Raspberry Pi** | Tinkering, small hardware projects | ✅ Unlocked |
-
-</div>
+| Ability | Command | Status |
+|:--------|:--------|:------:|
+| 🐍 **Python** | Scripting, automation, building tools & shells | 👁️ GEASS ACTIVE |
+| 🌐 **HTML / CSS / JS** | Front-end foundations & basic web dev | 👁️ GEASS ACTIVE |
+| ⚡ **FastAPI** | Creating REST APIs with precision | 👁️ GEASS ACTIVE |
 
 ---
 
-### 🧮 `[B-Rank]` Data & Algorithms
+### 🖤 `[ BLACK KNIGHTS INTEL ]` — Networking & Security
 
-<div align="left">
+| Ability | Command | Status |
+|:--------|:--------|:------:|
+| 🔥 **Firewalls** | DNS and IP blocking | 🗡️ DEPLOYED |
+| 🔌 **Networking Basics** | Sockets, TCP/IP — the arteries of battle | 🗡️ DEPLOYED |
 
-| Ability | Description | Status |
-|:--------|:------------|:------:|
-| 🗃️ **Arrays & Hash Maps** | Core DSA concepts | ✅ Unlocked |
-| 📊 **Stats & Probability** | Basic mathematical foundations | ✅ Unlocked |
+---
 
-</div>
+### ⚙️ `[ KNIGHTMARE FRAME ]` — Tools & Environment
+
+| Ability | Command | Status |
+|:--------|:--------|:------:|
+| 🐧 **Linux & NixOS** | System control, scripting, command line dominance | 🔴 ONLINE |
+| 🐋 **Docker** | Containerized battle formations | 🔴 ONLINE |
+| 🍓 **Raspberry Pi** | Field unit — tinkering & small projects | 🔴 ONLINE |
+
+---
+
+### 🧠 `[ STRATEGIC MIND ]` — Data & Algorithms
+
+| Ability | Command | Status |
+|:--------|:--------|:------:|
+| 🗃️ **Arrays & Hash Maps** | Core data structure warfare | 📖 STUDIED |
+| 📊 **Stats & Probability** | Mathematical battlefield analysis | 📖 STUDIED |
 
 ---
 
 <div align="center">
 
-## ⚔️ Power Level Overview
+## ♟️ Combat Power Analysis
 
 ```
-🐍  Python          ████████████████████░░░░  Advanced
-🌐  Web Dev         ██████████████░░░░░░░░░░  Intermediate  
-⚡  FastAPI         ████████████░░░░░░░░░░░░  Intermediate
-🔌  Networking      ██████████░░░░░░░░░░░░░░  Chunin
-🐧  Linux / NixOS   ████████████████░░░░░░░░  Advanced
-🐋  Docker          ████████████░░░░░░░░░░░░  Intermediate
-🧮  DSA             ████████░░░░░░░░░░░░░░░░  Genin+
+                    ═══ KNIGHTMARE READOUT ═══
+
+🐍  Python          ██████████████████░░░░░░  Lancelot Pilot
+🐧  Linux / NixOS   ████████████████░░░░░░░░  Guren Pilot
+🌐  Web Dev         ██████████████░░░░░░░░░░  Black Knight
+⚡  FastAPI         ████████████░░░░░░░░░░░░  Black Knight
+🔌  Networking      ██████████░░░░░░░░░░░░░░  Recruit
+🐋  Docker          ████████████░░░░░░░░░░░░  Black Knight
+🧮  DSA             ████████░░░░░░░░░░░░░░░░  Trainee
+
+                    ── Zero's Strategic Bonus: +∞ ──
 ```
 
 </div>
@@ -111,16 +112,20 @@ const Debjit_Bhattacharya = {
 
 <div align="center">
 
-## 🌙 Current Arc
+## 🗺️ Operation: Break Into Tech
 
 ```
-[ Chapter 1 — Learn Core Skills  ]  ━━━━━━━━━━━━  ✅ Complete
-[ Chapter 2 — Build Real Projects ]  ━━━━░░░░░░░░  🔄 Ongoing
-[ Chapter 3 — Land in Tech        ]  ░░░░░░░░░░░░  🔒 Locked
-[ Final Arc  — ??? ]                 ░░░░░░░░░░░░  👁️ Hidden
+  ╔══════════════════════════════════════════════════════════╗
+  ║  OPERATION LOG — ZERO SQUAD                             ║
+  ╠══════════════════════════════════════════════════════════╣
+  ║  Phase I  — Master the Fundamentals   ████████████  ✅  ║
+  ║  Phase II — Build Real Projects       ██████░░░░░░  🔄  ║
+  ║  Phase III— Infiltrate the Industry   ░░░░░░░░░░░░  🔒  ║
+  ║  Phase IV — REQUIEM                   ░░░░░░░░░░░░  👁️  ║
+  ╚══════════════════════════════════════════════════════════╝
 ```
 
-> *"I haven't shown you my true form yet."*
+> *"This is my Geass upon the world of tech... I WILL CHANGE IT."*
 
 </div>
 
@@ -128,17 +133,17 @@ const Debjit_Bhattacharya = {
 
 <div align="center">
 
-## 🛠️ Tech Badges
+## ⚔️ Arsenal Badges
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-CC0000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0000?style=for-the-badge&logo=javascript&logoColor=CC0000)
+![HTML5](https://img.shields.io/badge/HTML5-CC0000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1a0000?style=for-the-badge&logo=css3&logoColor=CC0000)
+![FastAPI](https://img.shields.io/badge/FastAPI-CC0000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a0000?style=for-the-badge&logo=linux&logoColor=CC0000)
+![NixOS](https://img.shields.io/badge/NixOS-CC0000?style=for-the-badge&logo=nixos&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a0000?style=for-the-badge&logo=docker&logoColor=CC0000)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-CC0000?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 </div>
 
@@ -146,17 +151,23 @@ const Debjit_Bhattacharya = {
 
 <div align="center">
 
-## 📬 Connect
+## 📡 Establish Contact — Black Knights Comms
 
-[![GitHub](https://img.shields.io/badge/GitHub-Debjit28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Debjit28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Debjit28-1a0000?style=for-the-badge&logo=github&logoColor=CC0000)](https://github.com/Debjit28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CC0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Debjit28&color=FF6EB4&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Debjit28&color=CC0000&style=for-the-badge&label=SOLDIERS+WATCHING)
+
+<br/>
+
+*"Lelouch vi Britannia commands you — give this profile a ⭐"*
 
 </div>
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,50:4a0000,100:1a0000&height=130&section=footer)
 
 </div>
