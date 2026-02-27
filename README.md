@@ -17,15 +17,15 @@
 ## 👁️ The Zero Identity
 
 ```javascript
-const Debjit = {
-  alias         : "Debjit28",
+const Lelouch_vi_Debjit = {
+  alias         : "Zero — Debjit28",
   pronouns      : "He / Him",
-  faction       : "The Black Knight programmer",
+  faction       : "The Black Knights of Dev 🖤",
   weapons       : ["Python", "JavaScript", "HTML", "CSS", "FastAPI"],
-  geassAbility  : "Absolute Command over Linux",
+  geassAbility  : "Absolute Command over Linux & Docker",
   knightmare    : "Raspberry Pi",
-  strategy      : "Break into tech through via persistance",
-  finalObjective: "To learn to make real world projects",
+  strategy      : "Break into tech through superior intellect",
+  finalObjective: "Create a world worth coding for",
   quote         : "The only ones who should code are those who can handle bugs.",
 };
 ```
@@ -154,7 +154,7 @@ const Debjit = {
 ## 📡 Establish Contact — Black Knights Comms
 
 [![GitHub](https://img.shields.io/badge/GitHub-Debjit28-1a0000?style=for-the-badge&logo=github&logoColor=CC0000)](https://github.com/Debjit28)
-[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/debjit-bhattacharya-0912172a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CC0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-bhattacharya-0912172a1/)
 
 <br/>
 
