@@ -1,24 +1,22 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Debjit%20Bhattacharya&fontSize=48&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Networking%20%7C%20Python%20%C2%B7%20Go%20%C2%B7%20Linux&descAlignY=58&descSize=14&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1f35,70:0d2e50,100:1a4a7a&height=250&section=header&text=Debjit%20Bhattacharya&fontSize=54&fontColor=e6f1ff&animation=fadeIn&fontAlignY=40&desc=Systems%20%26%20Network%20Programming%20%7C%20Python%20%C2%B7%20Go%20%C2%B7%20Linux&descAlignY=60&descSize=15&descColor=7eb8e8)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=7EB8E8&center=true&vCenter=true&width=650&lines=Building+close+to+the+metal+%E2%80%94+sockets%2C+systems%2C+networks.;Python+foundation.+Go+in+progress.+Linux+is+home.;Low-level+is+where+understanding+begins.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+from+the+ground+up+%E2%80%94+kernel+to+application.;Learning+Go+for+systems+%26+network+programming.;Comfortable+in+Python%2C+at+home+on+Linux.)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
-## About
+## $ whoami
 
 ```go
-// debjit.go
-
 package main
 
 type Engineer struct {
@@ -32,81 +30,70 @@ type Engineer struct {
 
 var me = Engineer{
     Name:  "Debjit Bhattacharya",
-    Focus: []string{"Systems Programming", "Networking", "Low-Level Projects"},
+    Focus: []string{"Systems Programming", "Network Programming", "Low-Level Projects"},
 
     Languages: map[string]string{
-        "Python":      "comfortable — scripting, automation, tooling",
-        "Go":          "learning — targeting systems & network programming",
+        "Python":      "comfortable — scripting, automation, CLI tooling",
+        "Go":          "actively learning — concurrency, net package, TCP servers",
         "HTML/CSS/JS": "basic web fundamentals",
     },
 
     CurrentlyLearning: []string{
-        "Go (Golang) — concurrency, net package, TCP servers",
-        "Network programming — sockets, TCP/IP internals",
-        "Linux internals — system calls, process management",
+        "Go — goroutines, channels, stdlib networking",
+        "TCP/IP internals, raw sockets, packet flow",
+        "Linux system calls & process management",
     },
 
     Environment: []string{"Linux", "NixOS", "Docker", "Raspberry Pi"},
-
-    Goal: "Write software that works close to the metal.",
+    Goal:        "Understand the machine. Build things that matter.",
 }
 ```
 
 ---
 
-## Tech Stack
+## Technologies
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3b82f6)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4b8bbe)
 ![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00add8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=264de4)
 
-#### Systems & Infrastructure
+**Systems & Infrastructure**
+
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=c9d1d9)
 ![NixOS](https://img.shields.io/badge/NixOS-0d1117?style=flat-square&logo=nixos&logoColor=7ebae4)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat-square&logo=raspberry-pi&logoColor=c51a4a)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=89e051)
 
 ---
 
 ## Skills
 
-| Area | Technologies | Status |
-|:-----|:-------------|:-------|
-| **Scripting & Automation** | Python, Bash | Comfortable |
-| **Systems Programming** | Go, Python sockets | Learning |
-| **Networking** | TCP/IP, DNS, firewalls, packet filtering | Building |
-| **Linux** | NixOS, system administration, CLI | Solid |
-| **Containerisation** | Docker | Working knowledge |
-| **Hardware** | Raspberry Pi — embedded & field projects | Active |
-| **Data Structures** | Arrays, hash maps | Studied |
-| **Web Fundamentals** | HTML, CSS, JavaScript | Basic |
+| Domain | Stack | Level |
+|:-------|:------|:------|
+| Scripting & Automation | Python, Bash | Comfortable |
+| Systems Programming | Go | Learning |
+| Network Programming | TCP/IP, sockets, DNS, firewalls | Building |
+| Linux & OS | NixOS, system admin, CLI | Solid |
+| Containers | Docker | Working knowledge |
+| Hardware | Raspberry Pi | Active |
+| Data Structures | Arrays, hash maps | Studied |
 
 ---
 
 ## Roadmap
 
 ```
-  Python fundamentals & Linux comfort     ██████████████████████  Done
-  Learn Go — syntax, stdlib, concurrency  ████████████░░░░░░░░░░  In progress
-  Build networking projects (TCP/UDP)     ████░░░░░░░░░░░░░░░░░░  Starting
-  Low-level systems projects              ░░░░░░░░░░░░░░░░░░░░░░  Next
-  Open source contributions               ░░░░░░░░░░░░░░░░░░░░░░  Planned
+  Python & Linux foundations          ████████████████████  Done
+  Go — language & stdlib              ████████████░░░░░░░░  In progress  
+  Networking projects (TCP/UDP)       ██████░░░░░░░░░░░░░░  Building
+  Low-level systems projects          ░░░░░░░░░░░░░░░░░░░░  Upcoming
+  Open source contributions           ░░░░░░░░░░░░░░░░░░░░  Planned
 ```
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Debjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debjit28&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debjit28&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117)
-
-</div>
 
 ---
 
@@ -117,7 +104,7 @@ var me = Engineer{
 [![GitHub](https://img.shields.io/badge/GitHub-Debjit28-0d1117?style=flat-square&logo=github&logoColor=c9d1d9)](https://github.com/Debjit28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Debjit%20Bhattacharya-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/debjit-bhattacharya-0912172a1/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Debjit28&color=21262d&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=Debjit28&color=0d2e50&style=flat-square&label=profile+views)
 
 </div>
 
@@ -125,6 +112,6 @@ var me = Engineer{
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a4a7a,30:0d2e50,70:0d1f35,100:0d1117&height=120&section=footer)
 
 </div>
