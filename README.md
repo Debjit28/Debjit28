@@ -1,33 +1,50 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:4a0000,100:cc0000&height=220&section=header&text=Debjit%20Bhattacharya&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%22I%20command%20you%2C%20machines%20and%20code%20-%20OBEY%20ME!%22&descAlignY=58&descSize=14&descColor=ffcccc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:16213e&height=220&section=header&text=Debjit%20Bhattacharya&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Systems%20Programmer%20%7C%20Network%20Engineer%20in%20Progress&descAlignY=58&descSize=15&descColor=94a3b8)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=1200&color=CC0000&center=true&vCenter=true&width=750&lines=I%2C+Debjit%2C+hereby+command+you...;All+code+shall+bow+to+my+Geass!;The+Black+Knights+of+Dev+shall+rise!;Those+who+shoot+shall+be+shot+%E2%80%94+by+bugs.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&pause=1200&color=7C9CBF&center=true&vCenter=true&width=750&lines=The+network+packet+has+no+loyalty+to+those+who+don't+understand+it.;I+will+master+the+machine%2C+from+kernel+to+wire.;Go+is+my+new+weapon.+Python+was+my+foundation.;Low+level+is+where+the+real+power+lives.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200" alt="geass eye gif"/>
+<img align="right" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="180" alt="thinking gif"/>
 
-## 👁️ The Zero Identity
+## 🧠 Identity
 
-```javascript
-const Lelouch_vi_Debjit = {
-  alias         : "Zero — Debjit28",
-  pronouns      : "He / Him",
-  faction       : "The Black Knights of Dev 🖤",
-  weapons       : ["Python", "JavaScript", "HTML", "CSS", "FastAPI"],
-  geassAbility  : "Absolute Command over Linux & Docker",
-  knightmare    : "Raspberry Pi",
-  strategy      : "Break into tech through superior intellect",
-  finalObjective: "Create a world worth coding for",
-  quote         : "The only ones who should code are those who can handle bugs.",
-};
+```go
+package main
+
+type Developer struct {
+    Name      string
+    Pronouns  string
+    Languages []string
+    CurrentlyLearning []string
+    Building  string
+    Goal      string
+}
+
+var Debjit = Developer{
+    Name:     "Debjit Bhattacharya",
+    Pronouns: "He / Him",
+    Languages: []string{
+        "Python",   // comfortable — my foundation
+        "Go",       // actively learning — systems & networking
+        "HTML/CSS/JS", // front-end basics
+    },
+    CurrentlyLearning: []string{
+        "Go (Golang)",
+        "Low-level systems programming",
+        "Networking internals (TCP/IP, sockets)",
+        "Linux internals",
+    },
+    Building: "Low-level and networking projects",
+    Goal:     "Deep systems knowledge, from the kernel to the wire",
+}
 ```
 
 <br clear="right"/>
@@ -36,96 +53,78 @@ const Lelouch_vi_Debjit = {
 
 <div align="center">
 
-## 🕯️ *"All hail Zero!"*
+## ⚡ *"The map is not the territory. The packet is not the message."*
 
-> *"I have to do it. I have to use any means necessary... even Stack Overflow."*
-
-</div>
-
----
-
-## 📜 Geass Compendium — Unlocked Powers
-
-> *"The Power of Kings will isolate you... but it will also let you deploy containers flawlessly."*
-
----
-
-### 👁️‍🗨️ `[ ABSOLUTE COMMAND ]` — Programming & Scripting
-
-| Ability | Command | Status |
-|:--------|:--------|:------:|
-| 🐍 **Python** | Scripting, automation, building tools & shells | 👁️ GEASS ACTIVE |
-| 🌐 **HTML / CSS / JS** | Front-end foundations & basic web dev | 👁️ GEASS ACTIVE |
-| ⚡ **FastAPI** | Creating REST APIs with precision | 👁️ GEASS ACTIVE |
-
----
-
-### 🖤 `[ BLACK KNIGHTS INTEL ]` — Networking & Security
-
-| Ability | Command | Status |
-|:--------|:--------|:------:|
-| 🔥 **Firewalls** | DNS and IP blocking | 🗡️ DEPLOYED |
-| 🔌 **Networking Basics** | Sockets, TCP/IP — the arteries of battle | 🗡️ DEPLOYED |
-
----
-
-### ⚙️ `[ KNIGHTMARE FRAME ]` — Tools & Environment
-
-| Ability | Command | Status |
-|:--------|:--------|:------:|
-| 🐧 **Linux & NixOS** | System control, scripting, command line dominance | 🔴 ONLINE |
-| 🐋 **Docker** | Containerized battle formations | 🔴 ONLINE |
-| 🍓 **Raspberry Pi** | Field unit — tinkering & small projects | 🔴 ONLINE |
-
----
-
-### 🧠 `[ STRATEGIC MIND ]` — Data & Algorithms
-
-| Ability | Command | Status |
-|:--------|:--------|:------:|
-| 🗃️ **Arrays & Hash Maps** | Core data structure warfare | 📖 STUDIED |
-| 📊 **Stats & Probability** | Mathematical battlefield analysis | 📖 STUDIED |
-
----
-
-<div align="center">
-
-## ♟️ Combat Power Analysis
-
-```
-                    ═══ KNIGHTMARE READOUT ═══
-
-🐍  Python          ██████████████████░░░░░░  Lancelot Pilot
-🐧  Linux / NixOS   ████████████████░░░░░░░░  Guren Pilot
-🌐  Web Dev         ██████████████░░░░░░░░░░  Black Knight
-⚡  FastAPI         ████████████░░░░░░░░░░░░  Black Knight
-🔌  Networking      ██████████░░░░░░░░░░░░░░  Recruit
-🐋  Docker          ████████████░░░░░░░░░░░░  Black Knight
-🧮  DSA             ████████░░░░░░░░░░░░░░░░  Trainee
-
-                    ── Zero's Strategic Bonus: +∞ ──
-```
+> *Understanding the machine beneath the abstraction — that is where real power lives.*
 
 </div>
 
 ---
 
+## 📜 Current Arsenal
+
+> *Every master was once learning their first socket.*
+
+---
+
+### 🐍 `[ FOUNDATION ]` — Python
+
+| Skill | Notes | Level |
+|:------|:------|:-----:|
+| 🐍 **Python** | Scripting, automation, tooling | ✅ Comfortable |
+| 📁 **File I/O & Automation** | Building CLI tools & scripts | ✅ Active |
+| 🔌 **Sockets (Python)** | Starting point for networking projects | 🔄 Building |
+
+---
+
+### 🔵 `[ NEW WEAPON ]` — Go (Golang)
+
+| Skill | Notes | Level |
+|:------|:------|:-----:|
+| 🔵 **Go Syntax & Basics** | Actively learning — loving the simplicity | 📖 Learning |
+| ⚡ **Goroutines & Concurrency** | Where Go truly shines | 📖 Exploring |
+| 🌐 **Go Networking** | net package, TCP servers | 🎯 Target |
+
+---
+
+### 🖧 `[ BATTLEFIELD ]` — Networking & Low-Level
+
+| Skill | Notes | Level |
+|:------|:------|:-----:|
+| 🔌 **TCP/IP & Sockets** | The arteries of all networked systems | 🔄 Building |
+| 🔥 **Firewalls & DNS** | IP/DNS blocking, packet filtering basics | 🗡️ Deployed |
+| 🐧 **Linux & NixOS** | System control, scripting, the real OS | 🔴 Solid |
+| 🍓 **Raspberry Pi** | Field hardware for real projects | 🔴 Active |
+| 🐋 **Docker** | Containerised environments | 🔴 Working |
+
+---
+
+### 🧮 `[ FOUNDATIONS ]` — CS Theory
+
+| Skill | Notes | Level |
+|:------|:------|:-----:|
+| 🗃️ **Arrays & Hash Maps** | Core data structure knowledge | 📖 Studied |
+| 📊 **Stats & Probability** | Mathematical reasoning | 📖 Studied |
+
+---
+
 <div align="center">
 
-## 🗺️ Operation: Break Into Tech
+## 📊 Skill Map
 
 ```
-  ╔══════════════════════════════════════════════════════════╗
-  ║  OPERATION LOG — ZERO SQUAD                             ║
-  ╠══════════════════════════════════════════════════════════╣
-  ║  Phase I  — Master the Fundamentals   ████████████  ✅  ║
-  ║  Phase II — Build Real Projects       ██████░░░░░░  🔄  ║
-  ║  Phase III— Infiltrate the Industry   ░░░░░░░░░░░░  🔒  ║
-  ║  Phase IV — REQUIEM                   ░░░░░░░░░░░░  👁️  ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+                ═══ SYSTEM DIAGNOSTICS ═══
 
-> *"This is my Geass upon the world of tech... I WILL CHANGE IT."*
+🐍  Python          ████████████████████░░░░  Solid Foundation
+🐧  Linux / NixOS   ██████████████████░░░░░░  Confident
+🔵  Go (Golang)     ██████████░░░░░░░░░░░░░░  Actively Learning
+🔌  Networking      ████████░░░░░░░░░░░░░░░░  Building Depth
+🐋  Docker          ████████████░░░░░░░░░░░░  Working Knowledge
+🌐  Web Dev         ██████████░░░░░░░░░░░░░░  Basic Proficiency
+🧮  DSA             ████████░░░░░░░░░░░░░░░░  In Progress
+
+                ── Trajectory: Systems & Networking ──
+```
 
 </div>
 
@@ -133,17 +132,21 @@ const Lelouch_vi_Debjit = {
 
 <div align="center">
 
-## ⚔️ Arsenal Badges
+## 🗺️ Operation: Systems Mastery
 
-![Python](https://img.shields.io/badge/Python-CC0000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0000?style=for-the-badge&logo=javascript&logoColor=CC0000)
-![HTML5](https://img.shields.io/badge/HTML5-CC0000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1a0000?style=for-the-badge&logo=css3&logoColor=CC0000)
-![FastAPI](https://img.shields.io/badge/FastAPI-CC0000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1a0000?style=for-the-badge&logo=linux&logoColor=CC0000)
-![NixOS](https://img.shields.io/badge/NixOS-CC0000?style=for-the-badge&logo=nixos&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a0000?style=for-the-badge&logo=docker&logoColor=CC0000)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-CC0000?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  ROADMAP — DEBJIT'S PATH                                    ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║  Phase I  — Python fundamentals & Linux       ███████████ ✅ ║
+  ║  Phase II — Learn Go, build networking tools  █████░░░░░░ 🔄 ║
+  ║  Phase III— Low-level systems projects        ░░░░░░░░░░░ 🔒 ║
+  ║  Phase IV — Contribute to open source         ░░░░░░░░░░░ 🔒 ║
+  ║  Phase V  — Land systems/backend role         ░░░░░░░░░░░ 🎯 ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
+
+> *"The plan is nothing. Planning is everything. Ship the code."*
 
 </div>
 
@@ -151,23 +154,40 @@ const Lelouch_vi_Debjit = {
 
 <div align="center">
 
-## 📡 Establish Contact — Black Knights Comms
+## ⚔️ Tech Stack
 
-[![GitHub](https://img.shields.io/badge/GitHub-Debjit28-1a0000?style=for-the-badge&logo=github&logoColor=CC0000)](https://github.com/Debjit28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CC0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-bhattacharya-0912172a1/)
+![Python](https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=3b82f6)
+![Go](https://img.shields.io/badge/Go-1e293b?style=for-the-badge&logo=go&logoColor=00add8)
+![Linux](https://img.shields.io/badge/Linux-1e293b?style=for-the-badge&logo=linux&logoColor=f8fafc)
+![NixOS](https://img.shields.io/badge/NixOS-1e293b?style=for-the-badge&logo=nixos&logoColor=7ebae4)
+![Docker](https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=2496ed)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1e293b?style=for-the-badge&logo=raspberry-pi&logoColor=c51a4a)
+![HTML5](https://img.shields.io/badge/HTML5-1e293b?style=for-the-badge&logo=html5&logoColor=e2620e)
+![CSS3](https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=2965f1)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📡 Find Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Debjit28-1e293b?style=for-the-badge&logo=github&logoColor=f8fafc)](https://github.com/Debjit28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1e293b?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/debjit-bhattacharya-0912172a1/)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Debjit28&color=CC0000&style=for-the-badge&label=SOLDIERS+WATCHING)
+![Visitor Count](https://komarev.com/ghpvc/?username=Debjit28&color=334155&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
-*"Lelouch vi Britannia commands you — give this profile a ⭐"*
+*Currently building: low-level networking tools in Python & Go*
 
 </div>
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,50:4a0000,100:1a0000&height=130&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0f&height=130&section=footer)
 
 </div>
